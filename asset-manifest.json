@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://app.donex.finance/static/js/main.f2c8b62d.chunk.js",
-    "main.js.map": "https://app.donex.finance/static/js/main.f2c8b62d.chunk.js.map",
+    "main.js": "https://app.donex.finance/static/js/main.25039b41.chunk.js",
+    "main.js.map": "https://app.donex.finance/static/js/main.25039b41.chunk.js.map",
     "runtime-main.js": "https://app.donex.finance/static/js/runtime-main.ef8fb674.js",
     "runtime-main.js.map": "https://app.donex.finance/static/js/runtime-main.ef8fb674.js.map",
     "static/css/2.317bf9c7.chunk.css": "https://app.donex.finance/static/css/2.317bf9c7.chunk.css",
@@ -86,6 +86,7 @@
     "static/media/dot_line.41984dee.svg": "https://app.donex.finance/static/media/dot_line.41984dee.svg",
     "static/media/dropdown.fef18eeb.svg": "https://app.donex.finance/static/media/dropdown.fef18eeb.svg",
     "static/media/gas-icon.7653c8fe.svg": "https://app.donex.finance/static/media/gas-icon.7653c8fe.svg",
+    "static/media/logo.b582753d.png": "https://app.donex.finance/static/media/logo.b582753d.png",
     "static/media/noise.3c7efafc.png": "https://app.donex.finance/static/media/noise.3c7efafc.png",
     "static/media/search.2f68ccda.svg": "https://app.donex.finance/static/media/search.2f68ccda.svg",
     "static/media/socks.e6b0bda3.svg": "https://app.donex.finance/static/media/socks.e6b0bda3.svg",
@@ -99,6 +100,6 @@
     "static/js/runtime-main.ef8fb674.js",
     "static/css/2.317bf9c7.chunk.css",
     "static/js/2.d8599bdd.chunk.js",
-    "static/js/main.f2c8b62d.chunk.js"
+    "static/js/main.25039b41.chunk.js"
   ]
 }
