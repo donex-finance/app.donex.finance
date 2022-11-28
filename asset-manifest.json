@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "./static/js/main.c9c0900c.chunk.js",
-    "main.js.map": "./static/js/main.c9c0900c.chunk.js.map",
+    "main.js": "./static/js/main.148fba13.chunk.js",
+    "main.js.map": "./static/js/main.148fba13.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.64b76ca0.js",
     "runtime-main.js.map": "./static/js/runtime-main.64b76ca0.js.map",
     "static/css/2.c3b49e9c.chunk.css": "./static/css/2.c3b49e9c.chunk.css",
@@ -86,7 +86,7 @@
     "static/media/dot_line.12c2b74f.svg": "./static/media/dot_line.12c2b74f.svg",
     "static/media/dropdown.f414ec6b.svg": "./static/media/dropdown.f414ec6b.svg",
     "static/media/gas-icon.e56ec11c.svg": "./static/media/gas-icon.e56ec11c.svg",
-    "static/media/logo.82b982ef.png": "./static/media/logo.82b982ef.png",
+    "static/media/logo.77240c62.png": "./static/media/logo.77240c62.png",
     "static/media/noise.3c7efafc.png": "./static/media/noise.3c7efafc.png",
     "static/media/search.2f68ccda.svg": "./static/media/search.2f68ccda.svg",
     "static/media/socks.dcf64325.svg": "./static/media/socks.dcf64325.svg",
@@ -100,6 +100,6 @@
     "static/js/runtime-main.64b76ca0.js",
     "static/css/2.c3b49e9c.chunk.css",
     "static/js/2.0531a70e.chunk.js",
-    "static/js/main.c9c0900c.chunk.js"
+    "static/js/main.148fba13.chunk.js"
   ]
 }
