@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "https://app.donex.finance/static/js/main.59dc50e1.chunk.js",
-    "main.js.map": "https://app.donex.finance/static/js/main.59dc50e1.chunk.js.map",
+    "main.js": "https://app.donex.finance/static/js/main.a99e4973.chunk.js",
+    "main.js.map": "https://app.donex.finance/static/js/main.a99e4973.chunk.js.map",
     "runtime-main.js": "https://app.donex.finance/static/js/runtime-main.a4a29fc9.js",
     "runtime-main.js.map": "https://app.donex.finance/static/js/runtime-main.a4a29fc9.js.map",
     "static/css/2.317bf9c7.chunk.css": "https://app.donex.finance/static/css/2.317bf9c7.chunk.css",
-    "static/js/2.c0e258a0.chunk.js": "https://app.donex.finance/static/js/2.c0e258a0.chunk.js",
-    "static/js/2.c0e258a0.chunk.js.map": "https://app.donex.finance/static/js/2.c0e258a0.chunk.js.map",
+    "static/js/2.dfdcf4f6.chunk.js": "https://app.donex.finance/static/js/2.dfdcf4f6.chunk.js",
+    "static/js/2.dfdcf4f6.chunk.js.map": "https://app.donex.finance/static/js/2.dfdcf4f6.chunk.js.map",
     "static/js/3.1fbb1abb.chunk.js": "https://app.donex.finance/static/js/3.1fbb1abb.chunk.js",
     "static/js/3.1fbb1abb.chunk.js.map": "https://app.donex.finance/static/js/3.1fbb1abb.chunk.js.map",
     "static/js/4.6e97778f.chunk.js": "https://app.donex.finance/static/js/4.6e97778f.chunk.js",
@@ -77,7 +77,7 @@
     "service-worker.js": "https://app.donex.finance/service-worker.js",
     "service-worker.js.map": "https://app.donex.finance/service-worker.js.map",
     "static/css/2.317bf9c7.chunk.css.map": "https://app.donex.finance/static/css/2.317bf9c7.chunk.css.map",
-    "static/js/2.c0e258a0.chunk.js.LICENSE.txt": "https://app.donex.finance/static/js/2.c0e258a0.chunk.js.LICENSE.txt",
+    "static/js/2.dfdcf4f6.chunk.js.LICENSE.txt": "https://app.donex.finance/static/js/2.dfdcf4f6.chunk.js.LICENSE.txt",
     "static/media/inter.css": "https://app.donex.finance/static/media/Inter.var.9df5db38.woff2",
     "static/media/argentXWalletIcon.ce676f95.svg": "https://app.donex.finance/static/media/argentXWalletIcon.ce676f95.svg",
     "static/media/big_unicorn.595c4996.png": "https://app.donex.finance/static/media/big_unicorn.595c4996.png",
@@ -99,7 +99,7 @@
   "entrypoints": [
     "static/js/runtime-main.a4a29fc9.js",
     "static/css/2.317bf9c7.chunk.css",
-    "static/js/2.c0e258a0.chunk.js",
-    "static/js/main.59dc50e1.chunk.js"
+    "static/js/2.dfdcf4f6.chunk.js",
+    "static/js/main.a99e4973.chunk.js"
   ]
 }
