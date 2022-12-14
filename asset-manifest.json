@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "https://app.donex.finance/static/js/main.effe9501.chunk.js",
-    "main.js.map": "https://app.donex.finance/static/js/main.effe9501.chunk.js.map",
+    "main.js": "https://app.donex.finance/static/js/main.9004835b.chunk.js",
+    "main.js.map": "https://app.donex.finance/static/js/main.9004835b.chunk.js.map",
     "runtime-main.js": "https://app.donex.finance/static/js/runtime-main.0a373654.js",
     "runtime-main.js.map": "https://app.donex.finance/static/js/runtime-main.0a373654.js.map",
     "static/css/2.317bf9c7.chunk.css": "https://app.donex.finance/static/css/2.317bf9c7.chunk.css",
@@ -100,6 +100,6 @@
     "static/js/runtime-main.0a373654.js",
     "static/css/2.317bf9c7.chunk.css",
     "static/js/2.5885ea3a.chunk.js",
-    "static/js/main.effe9501.chunk.js"
+    "static/js/main.9004835b.chunk.js"
   ]
 }
